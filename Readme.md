@@ -1,12 +1,14 @@
-<h1>David Santiago Camacho Dávila</h1>
+<h1>David Santiago Camacho DÃ¡vila</h1>
 
-<img src=" /David Camacho/DavidCamacho.jpg" alt="foto perfil" width="600" height="800" loading="lazy">
+<img src=" /David Camacho/DavidCamacho.jpg" alt="foto perfil" width="800" height="600" loading="lazy">
 
-<p>Diseñador de videojuegos/Multimedia</p>
+<p>DiseÃ±ador de videojuegos/Multimedia</p>
 
 <p>sogamoso</p>
 
-<p>Soy un apasionado por la música, el arte y el desarrollo multimedia. Me interesa la creación de 
+<p>Soy un apasionado por la mÃºsica, el arte y el desarrollo multimedia. Me interesa la creaciÃ³n de 
 experiencias interactivas que mezclen lo visual, lo sonoro y lo narrativo. En este proyecto busco 
-aportar en la parte creativa y técnica, especialmente en el diseño de mecánicas y la planificación 
+aportar en la parte creativa y tÃ©cnica, especialmente en el diseÃ±o de mecÃ¡nicas y la planificaciÃ³n 
 del prototipo.</p>
+
+<img src=" /David Camacho/PlatoFavorito.jpeg" alt="plato favorito" width="600" height="800" loading="lazy">
