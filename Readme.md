@@ -1,6 +1,6 @@
 <h1>David Santiago Camacho Dávila</h1>
 
-<img src=" /David Camacho-copia/DavidCamacho.jpg" alt="foto perfil" width="800" height="600" loading="lazy">
+<img src=" /David Camacho/DavidCamacho.jpg" alt="foto perfil" width="800" height="600" loading="lazy">
 
 <p>Diseñador de videojuegos/Multimedia</p>
 
