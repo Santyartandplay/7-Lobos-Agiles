@@ -7,3 +7,5 @@
 <p>Duitama</p>
 
 <p> essoy un joven de 24 años de Duitama, Boyacá, estudiante de Ingeniería Multimedia en la UNAD. Le apasiona la creatividad digital, especialmente la edición de video, la fotografía y el filmmaking, además del marketing en redes sociales. Está explorando oportunidades profesionales que le permitan crecer en el ámbito creativo y tecnológico, buscando un camino que combine sus estudios con sus intereses en el diseño, el contenido digital y el emprendimiento.</p>
+
+<img src=" /Juan Tavera/Comida Favorita.jpg" alt="foto perfil" width="600" height="800" loading="lazy">
